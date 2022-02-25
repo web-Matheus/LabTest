@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    background-color: red;
+    border-radius: 50%;
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+progress{
+    color: blue;
+    width: 100px;
+    display: flex;
+
+
+}
